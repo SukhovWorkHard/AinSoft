@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AinSoft</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_list">List</string>
+    <string name="btn_dialog_cancel">Отмена</string>
+    <string name="btn_dialog_ok">ОК</string>
+</resources>
